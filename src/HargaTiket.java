@@ -1,0 +1,3 @@
+interface HargaTiket {
+    double getHarga();
+}
